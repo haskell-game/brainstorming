@@ -2,9 +2,10 @@ The Haskell Game Library
 ========================
 
 This initiative aims to improve the *status quo* of developing games
-and other multimedia applications using Haskell. We will create a set
-of modular libraries with the intent that they be good enough to
-become the *de facto* standards for starting new games in Haskell.
+and other multimedia applications using
+[Haskell](http://haskell.org). We will create a set of modular
+libraries with the intent that they be good enough to become the *de
+facto* standards for starting new games in Haskell.
 
 This project is currently in its early stages. This is the best time
   to get involved if you have any grand visions or objections to what
@@ -49,9 +50,10 @@ approachable due to the fact that we are minimizing dependencies and
 language extensions.
 
 Any barrier to entry should be as low as possible. While getting this
-into the Haskell Platform is not a primary goal, we desire the same
-criteria that would be necessary, such as limiting our dependencies
-and avoiding conflicts with other Haskell Platform packages.
+into the [Haskell Platform](http://www.haskell.org/platform/) is not a
+primary goal, we desire the same criteria that would be necessary,
+such as limiting our dependencies and avoiding conflicts with other
+Haskell Platform packages.
 
 We intend for these to be practical libraries, not research
 projects. We have nothing against functional reactive programming or
