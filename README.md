@@ -16,7 +16,7 @@ Goals and Philosophy
 --------------------
 
 The functionality of our libraries is intended to be in competition
-with libraries like [http://www.pygame.org/](pygame). As a bare
+with libraries like [pygame](http://www.pygame.org/). As a bare
 minimum, we will support common game-relevant data types, windowing,
 event handling, sprite-based graphics, audio, and various
 game-relevant file formats.
