@@ -40,7 +40,7 @@ some other library built on OpenGL which also plays nicely with
 others).
 
 The libraries we create will be fully supported on at least the most
-major desktop operating systems: Windows, Mac OS X, and a some common
+major desktop operating systems: Windows, Mac OS X, and some common
 Linux distributions (the other distributions should easily benefit
 from this support, even if only second class). Support for other
 operating systems or any web browsers are not primary goals, but we
@@ -57,6 +57,6 @@ Haskell Platform packages.
 
 We intend for these to be practical libraries, not research
 projects. We have nothing against functional reactive programming or
-shader generating domain specific languages, but our intiative does
+shader-generating domain specific languages, but our intiative does
 not implement or directly support such technologies. However, a user
 should be free to mix our libraries with more experimental ones.
