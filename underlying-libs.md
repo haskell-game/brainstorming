@@ -135,14 +135,3 @@ enet? See details here: http://enet.bespin.org/Features.html.
   + MIT license? http://enet.bespin.org/License.html
 
 Q: Do we even want to provide any direct support for networking?
-
-RANDOM QUESTIONS
-================
-
-Q: Make the library UHC/ghcjs/fay/haste/<insert your favourite haskell
-   to javascript compiler here> compatible?
-
-A: Not as a primary goal, but when feasible try not to make this
-   difficult for a willing contributor to do (for some suitable subset
-   of libraries, at least).
-
