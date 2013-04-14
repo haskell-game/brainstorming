@@ -40,7 +40,7 @@ some other library built on OpenGL which also plays nicely with
 others).
 
 The libraries we create will be fully supported on at least the most
-major desktop operating systems: Windows, Mac OS X, and a some common
+major desktop operating systems: Windows, Mac OS X, and some common
 Linux distributions (the other distributions should easily benefit
 from this support, even if only second class). Support for other
 operating systems or any web browsers are not primary goals, but we
