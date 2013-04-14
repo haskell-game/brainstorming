@@ -114,6 +114,11 @@ Text Rendering
 
 TTF, bitmap, 2d/3d etc.
 
+Image and Other File Loading
+============================
+
+?
+
 GUI
 ===
 
