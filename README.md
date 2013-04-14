@@ -57,6 +57,6 @@ Haskell Platform packages.
 
 We intend for these to be practical libraries, not research
 projects. We have nothing against functional reactive programming or
-shader generating domain specific languages, but our intiative does
+shader-generating domain specific languages, but our intiative does
 not implement or directly support such technologies. However, a user
 should be free to mix our libraries with more experimental ones.
