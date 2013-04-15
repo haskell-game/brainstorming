@@ -114,10 +114,71 @@ Text Rendering
 
 TTF, bitmap, 2d/3d etc.
 
-Image and Other File Loading
-============================
+FreeType
 
-?
+* Pros
+  + Popular, well-tested etc.
+  + FTL license (BSD style, http://www.freetype.org/license.html)
+* Cons
+
+Image Loading
+=============
+
+DevIL
+
+* Pros
+  + Popular, well-tested etc
+* Cons
+  + LGPL
+
+FreeImage
+
+* Pros
+  + Popular (used by Unity and others: http://freeimage.sourceforge.net/users.html)
+  + FIPL license, allows for commercial use apparently (http://freeimage.sourceforge.net/license.html)
+* Cons
+  + I personally find it a pita to use (Jeanne-Kamikaze)
+
+stb_image
+
+http://nothings.org/stb_image.c
+
+* Pros
+  + Extremely lightweight (single C file)
+  + Public domain
+  + I have personally used it, extremely easy to use ((Jeanne-Kamikaze)
+* Cons
+  + Does not support all types of images or compressions. Fails with some compressed PNGs and what not
+
+Corona
+
+http://corona.sourceforge.net/
+
+* Pros
+  + Mature
+  + Easy to use
+  + zlib license
+  + It is actually active despite not having been updated in a long time. I personally couldn't get it building on Arch, mailed the author and got it fixed the next day (Jeanne-Kamikaze)
+* Cons
+  + Not very actively developed (latest news from 2003), but the author is still alive (see above)
+
+SOIL
+
+http://www.lonesock.net/soil.html
+
+* Pros
+  + Seems to be made specifically for OpenGL apps
+  + Public domain
+* Cons
+  + Hasn't been updated in a long time (July 7, 2008)
+
+MagickCore
+
+http://www.imagemagick.org/script/magick-core.php
+
+* Pros
+  + It's part of the imagemagick suite, must be good
+  + Apache license - I suppose this is good but I haven't read the details
 
 GUI
 ===
