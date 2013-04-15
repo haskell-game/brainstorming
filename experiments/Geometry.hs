@@ -14,6 +14,8 @@ import Control.Applicative
 -- of them lurking and only biting after you have long forgotten about the code.
 -- Also, being merely phantom types, this could just be implemented on top
 -- anyway, if somebody wants it, and then they get to do it however they want.
+-- I'm not against exploring some other things, but I don't feel like the tradeoff
+-- is where it'd like, here.
 {-
 
 The goal here is to make as many potential bugs into type errors as possible
