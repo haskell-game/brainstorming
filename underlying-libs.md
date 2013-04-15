@@ -10,6 +10,11 @@ Underlying libraries criteria
 Windowing/input
 ===============
 
+Allegro
+
+* Pros
+* Cons
+
 GLUT - just no
 
 GLFW - tentative yes
