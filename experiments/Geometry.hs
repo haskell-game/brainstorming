@@ -3,6 +3,17 @@ module Geometry where
 
 import Control.Applicative
 
+-- CR jmcarthur: After thinking about it a bit, here is my opinion on this.
+-- If you imagine a 2D plot where one axis is type safety and the other is
+-- straightforwardness, doing nothing interesting would be close to the (0,1)
+-- extreme, going all out would be close to the (1,0) extreme, and I think
+-- this approach would sit around (4,4). That's okay, but I think it is more
+-- important that the interface be simple than that it be type safe. We are
+-- shooting for this being as approachable as possible. Most bugs this prevents
+-- are going to be immediately visible at runtime anyway; there is little risk
+-- of them lurking and only biting after you have long forgotten about the code.
+-- Also, being merely phantom types, this could just be implemented on top
+-- anyway, if somebody wants it, and then they get to do it however they want.
 {-
 
 The goal here is to make as many potential bugs into type errors as possible
@@ -26,6 +37,10 @@ revised from what's used here
 
 -}
 
+-- CR jmcarthur for cmccann: Why not have a separate phantom type for each
+-- property instead of using phantom type constructors? Also, what does Cd2
+-- stand for?
+--     data Cd2 c s u a = Cd2 !a !a
 data Cd2 t a = Cd2 !a !a
   deriving (Eq, Ord, Read, Show)
 
