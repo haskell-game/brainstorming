@@ -3,7 +3,7 @@ module Geometry where
 
 import Control.Applicative
 
--- CR jmcarthur: After thinking about it a bit, here is my opinion on this.
+-- jmcarthur: After thinking about it a bit, here is my opinion on this.
 -- If you imagine a 2D plot where one axis is type safety and the other is
 -- straightforwardness, doing nothing interesting would be close to the (0,1)
 -- extreme, going all out would be close to the (1,0) extreme, and I think
@@ -37,7 +37,7 @@ revised from what's used here
 
 -}
 
--- CR jmcarthur for cmccann: Why not have a separate phantom type for each
+-- jmcarthur for cmccann: Why not have a separate phantom type for each
 -- property instead of using phantom type constructors? Also, what does Cd2
 -- stand for?
 --     data Cd2 c s u a = Cd2 !a !a
