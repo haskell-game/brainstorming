@@ -154,6 +154,7 @@ http://nothings.org/stb_image.c
   + I have personally used it, extremely easy to use ((Jeanne-Kamikaze)
 * Cons
   + Does not support all types of images or compressions. Fails with some compressed PNGs and what not
+  + Doesn't seem to be actively developed.
 
 Corona
 
@@ -173,6 +174,8 @@ http://www.lonesock.net/soil.html
 
 * Pros
   + Seems to be made specifically for OpenGL apps
+  + Also very lightweight, it's in fact an extension of stb_image with support for more formats.
+  + Has a screenshot function.
   + Public domain
 * Cons
   + Hasn't been updated in a long time (July 7, 2008)
