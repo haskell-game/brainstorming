@@ -126,12 +126,17 @@ Image Loading
 
 DevIL
 
+http://openil.sourceforge.net/
+
 * Pros
   + Popular, well-tested etc
+  + Used by Ogre3D iirc
 * Cons
   + LGPL
 
 FreeImage
+
+http://freeimage.sourceforge.net/
 
 * Pros
   + Popular (used by Unity and others: http://freeimage.sourceforge.net/users.html)
@@ -160,7 +165,7 @@ http://corona.sourceforge.net/
   + zlib license
   + It is actually active despite not having been updated in a long time. I personally couldn't get it building on Arch, mailed the author and got it fixed the next day (Jeanne-Kamikaze)
 * Cons
-  + Not very actively developed (latest news from 2003), but the author is still alive (see above)
+  + Not very actively developed (latest news from 2003), but the author is still alive lurking in the shadows (see above)
 
 SOIL
 
