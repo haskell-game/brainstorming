@@ -15,7 +15,7 @@ complexity and a little more junk in the abstraction (due to the
 implementation), we could probably make it more general. We should
 strongly consider this generalization. This is only a first proposal.
 
-Most of the API falls out of these denotations. `Color` are `Image`
+Most of the API falls out of these denotations. `Color` and `Image`
 are both instances of `Monoid`. Affine transformations can be applied
 to `Image`.
 
