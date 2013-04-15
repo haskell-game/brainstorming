@@ -13,7 +13,7 @@ functions. Images are just colors over 2D space.
 One might object to hardcoding the blend function. With some extra
 complexity and a little more junk in the abstraction (due to the
 implementation), we could probably make it more general. We should
-strongly consider this. This is only a first proposal.
+strongly consider this generalization. This is only a first proposal.
 
 Most of the API falls out of these denotations. `Color` are `Image`
 are both instances of `Monoid`. Affine transformations can be applied
