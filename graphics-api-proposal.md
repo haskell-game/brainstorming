@@ -6,9 +6,9 @@ I propose a 2D graphics API using a similar denotation to that of
 just without the extra value. Colors are actually alpha blending
 functions. Images are just colors over 2D space.
 
-    [[ RGB   ]] = R * R * R
-    [[ Color ]] = {f : RGB -> RGB | exists (x : RGB) (a : [0,1]). forall c. f(c) = ax + (1-a)c}
-    [[ Image ]] = R*R -> Color
+    [[ RGB     ]] = R * R * R
+    [[ Color   ]] = {f : RGB -> RGB | exists (x : RGB) (a : [0,1]). forall c. f(c) = ax + (1-a)c}
+    [[ Image c ]] = c*c -> Color
 
 One might object to hardcoding the blend function. With some extra
 complexity and a little more junk in the abstraction (due to the
