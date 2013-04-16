@@ -16,7 +16,6 @@ Allegro
   + Allegro 5 has a BSD3 license
   + actively maintained
   + supports multiple contexts
-  + C API
 * Cons
   + Existing Haskell bindings (BSD3) look unmaintained and incomplete (but not a bad start)
   + would be a very complicated build if we want to include it directly in a Haskell package
