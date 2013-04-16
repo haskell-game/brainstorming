@@ -200,6 +200,18 @@ http://www.imagemagick.org/script/magick-core.php
   + It's part of the imagemagick suite, must be good
   + Apache license - I suppose this is good but I haven't read the details
 
+JuicyPixels
+
+* Pros
+  + 100% Haskell, so likely to Just Work(tm) anywhere GHC does
+  + Also saves images
+  + Appears to be actively developed
+  + BSD license
+* Cons
+  + Relatively limited API
+  + Only supports a handful of common image formats
+  + Relatively young library, not as time-tested as some of the C libs above
+
 GUI
 ===
 
