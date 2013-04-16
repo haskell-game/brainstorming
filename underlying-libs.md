@@ -136,13 +136,12 @@ FreeType
 Image Loading
 =============
 
-DevIL
+DevIL - rejected due to licensing
 
 http://openil.sourceforge.net/
 
 * Pros
-  + Popular, well-tested etc
-  + Used by Ogre3D iirc
+  + Popular, well-tested etc (used by Ogre3D iirc)
 * Cons
   + LGPL
 
@@ -154,7 +153,8 @@ http://freeimage.sourceforge.net/
   + Popular (used by Unity and others: http://freeimage.sourceforge.net/users.html)
   + FIPL license, allows for commercial use apparently (http://freeimage.sourceforge.net/license.html)
 * Cons
-  + I personally find it a pita to use (Jeanne-Kamikaze)
+  + Jeanne-Kamikaze: I personally find it a pita to use
+  + jmcarthur: Unusual licenses make me nervous
 
 stb_image
 
@@ -163,7 +163,8 @@ http://nothings.org/stb_image.c
 * Pros
   + Extremely lightweight (single C file)
   + Public domain
-  + I have personally used it, extremely easy to use ((Jeanne-Kamikaze)
+  + Jeanne-Kamikaze: I have personally used it, extremely easy to use
+  + Existing Haskell bindings
 * Cons
   + Does not support all types of images or compressions. Fails with some compressed PNGs and what not
   + Doesn't seem to be actively developed.
