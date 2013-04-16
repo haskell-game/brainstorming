@@ -13,7 +13,12 @@ Windowing/input
 Allegro
 
 * Pros
+  + Allegro 5 has a BSD3 license
+  + can always contribute to the original project by writing Haskell bindings
+  + actively maintained
+  + allows you to open OpenGL 3 context by means of al_set_new_display_flags (http://alleg.sourceforge.net/a5docs/5.0.9/display.html#al_set_new_display_flags)
 * Cons
+  + doesn't seem to allow you to open an OpenGL 4 context (not bad per se since we decided to go with 2.1, but just saying)
 
 GLUT - just no
 
@@ -22,6 +27,7 @@ GLFW - tentative yes
 * Pros
   + simple
   + quite portable (apart from the GHCi on OS X issue)
+  + opening a 3+ OpenGL context is trivial
   + zlib/libpng license
 
 * Cons
