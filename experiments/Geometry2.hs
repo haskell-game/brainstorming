@@ -11,6 +11,10 @@ class AffineSpace p where
   (.-.) :: p -> p -> Diff p
   (.+^) :: p -> Diff p -> p
 
+class VectorSpace v where
+  type Scalar v
+  (*^) :: Scalar v -> v -> v
+
 data Vector a = Vector !a !a deriving Functor
 
 instance Applicative Vector where
@@ -32,3 +36,7 @@ instance AffineSpace a => AffineSpace (Point a) where
   type Diff (Point a) = Vector (Diff a)
   Point x1 y1 .-. Point  x2 y2 = Vector (x1 .-. x2) (y1 .-. y2)
   Point x  y  .+^ Vector dx dy = Point  (x  .+^ dx) (y  .+^ dy)
+
+instance VectorSpace a => VectorSpace (Vector a) where
+  type Scalar (Vector a) = Scalar a
+  s *^ Vector x y = Vector (s *^ x) (s *^ y)
