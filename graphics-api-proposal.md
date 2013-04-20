@@ -29,7 +29,8 @@ Adding Blending Modes to `Color`
 
 Here's a first pass at generalizing the semantics of `Color` for more
 interesting blending modes. It looks a little complicated, but I think
-most of these complicated bits can be hidden in the common case.
+most of these complicated bits can be hidden in the common case. It
+may not be worth all this anyway, though.
 
     data Equation = Add | Subtract | ReverseSubtract | Min | Max
     
