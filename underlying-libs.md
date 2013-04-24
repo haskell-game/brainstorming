@@ -77,6 +77,7 @@ GTK
   + Haskell bindings are crazy to set up
   + Not the best of citizens on all platforms (I think)
   + Last time I tried to build GTK on Windows I failed royally.
+  + LGPL license
 
 Native OS
 
@@ -130,6 +131,7 @@ FreeType
 * Pros
   + Popular, well-tested etc.
   + FTL license (BSD style, http://www.freetype.org/license.html)
+  + Low-Level haskell binding already exists http://hackage.haskell.org/package/freetype2
 * Cons
 
 Image Loading
@@ -207,6 +209,7 @@ JuicyPixels
   + Also saves images
   + Appears to be actively developed
   + BSD license
+  + Schedule for inclusion in some future version of the Haskell Platform (eg., it should continue to gain popularity)
 * Cons
   + Relatively limited API
   + Only supports a handful of common image formats
