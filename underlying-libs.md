@@ -236,3 +236,18 @@ enet? See details here: http://enet.bespin.org/Features.html.
   + MIT license? http://enet.bespin.org/License.html
 
 Q: Do we even want to provide any direct support for networking?
+
+Sound and Music Loading
+=======================
+
+PortAudio has little or no support for loading of formatted audio data. Therefore, we will need a library to
+load at least a few formats.
+
+HCodecs?
+
+* Pros
+  + BSD3
+  + Pure Haskell (no external deps)
+* Cons
+  + Not very many codecs supported
+  + Last update is Nov. 2011
