@@ -31,7 +31,7 @@ GLFW - tentative yes
   + zlib/libpng license
 
 * Cons
-  + only one context
+  + only one context (only true of 2.x. 3.x supports multiple contexts)
   + doesn't work in GHCi in OS X without some extra steps (probably
     not fundamentally due to the C lib)
 
@@ -136,6 +136,13 @@ FreeType
 
 Image Loading
 =============
+
+GraphicsMagick (http://www.graphicsmagick.org/)
+
+* Pros
+  + MIT-licensed
+  + Claims many improvements over ImageMagick including 100% memcheck/helgrind clean
+* Cons
 
 DevIL - rejected due to licensing
 
