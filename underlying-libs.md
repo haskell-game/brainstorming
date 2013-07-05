@@ -137,6 +137,13 @@ FreeType
 Image Loading
 =============
 
+GraphicsMagick (http://www.graphicsmagick.org/)
+
+* Pros
+  + MIT-licensed
+  + Claims many improvements over ImageMagick including 100% memcheck/helgrind clean
+* Cons
+
 DevIL - rejected due to licensing
 
 http://openil.sourceforge.net/
