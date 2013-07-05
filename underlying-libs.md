@@ -29,9 +29,9 @@ GLFW - tentative yes
   + simple
   + quite portable (apart from the GHCi on OS X issue)
   + zlib/libpng license
+  + multiple contexts as of v3
 
 * Cons
-  + only one context (only true of 2.x. 3.x supports multiple contexts)
   + doesn't work in GHCi in OS X without some extra steps (probably
     not fundamentally due to the C lib)
 
@@ -39,10 +39,9 @@ SDL - rejected (due to LGPL)
 
 * Pros
   + many features
-  + 2.0 is under zlib (but not released yet)
+  + 2.0 is under zlib
 
 * Cons
-  + 1.2 is under LGPL
   + limited audio interface
   + tough to make work out of the box (in jmcarthur's experiences)
 
@@ -209,7 +208,7 @@ http://www.imagemagick.org/script/magick-core.php
   + It's part of the imagemagick suite, must be good
   + Apache license - I suppose this is good but I haven't read the details
 
-JuicyPixels
+JuicyPixels - yes
 
 * Pros
   + 100% Haskell, so likely to Just Work(tm) anywhere GHC does
