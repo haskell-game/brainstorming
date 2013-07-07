@@ -13,3 +13,11 @@ Mage
 (proposed by alpounet)
 
 * An anagram of "game"
+
+Fun
+---
+
+(proposed by b6)
+
+* Thesaurus word for "game"
+* Like "functional"
