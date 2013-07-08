@@ -132,6 +132,28 @@ FreeType
   + FTL license (BSD style, http://www.freetype.org/license.html)
   + Low-Level haskell binding already exists http://hackage.haskell.org/package/freetype2
 * Cons
+  + Really big and kind of complicated to use
+
+FreeType-GL
+
+* Pros
+  + Seems to be fairly popular
+  + BSD
+  + Haskell binding already exists https://github.com/Peaker/FreeTypeGL
+  + Uses OpenGL and signed distance fields out of the box
+* Cons
+  + Even bigger than plain FreeType, since it depends on it
+  + Seems to require a fairly specific OpenGL state and may require some work to make it play well with others
+
+std-truetype
+
+* Pros
+  + Public domain
+  + Tiny (2000 lines or so)
+  + Simple
+  + Haskell binding already exists http://hackage.haskell.org/package/stb-truetype (also public domain)
+* Cons
+  + A blog post I read claims that its quality and performance are not on par with FreeType
 
 Image Loading
 =============
