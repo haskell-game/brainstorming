@@ -151,7 +151,7 @@ std-truetype
   + Public domain
   + Tiny (2000 lines or so)
   + Simple
-  + Haskell binding already exists http://hackage.haskell.org/package/stb-truetype (also public domain)
+  + Haskell binding already exists http://hackage.haskell.org/package/stb-truetype (also public domain, but uses an old version of the C library)
 * Cons
   + A blog post I read claims that its quality and performance are not on par with FreeType
 
