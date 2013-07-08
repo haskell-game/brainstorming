@@ -1,0 +1,803 @@
+name of display: :0.0
+display: :0  screen: 0
+direct rendering: Yes
+server glx vendor string: NVIDIA Corporation
+server glx version string: 1.4
+server glx extensions:
+    GLX_EXT_visual_info, GLX_EXT_visual_rating, GLX_SGIX_fbconfig, 
+    GLX_SGIX_pbuffer, GLX_SGI_video_sync, GLX_SGI_swap_control, 
+    GLX_EXT_swap_control, GLX_EXT_swap_control_tear, 
+    GLX_EXT_texture_from_pixmap, GLX_ARB_create_context, 
+    GLX_ARB_create_context_profile, GLX_EXT_create_context_es_profile, 
+    GLX_EXT_create_context_es2_profile, GLX_ARB_create_context_robustness, 
+    GLX_ARB_multisample, GLX_NV_float_buffer, GLX_ARB_fbconfig_float, 
+    GLX_NV_swap_group, GLX_EXT_framebuffer_sRGB, GLX_NV_multisample_coverage, 
+    GLX_NV_copy_image, GLX_NV_video_capture
+client glx vendor string: NVIDIA Corporation
+client glx version string: 1.4
+client glx extensions:
+    GLX_ARB_get_proc_address, GLX_ARB_multisample, GLX_EXT_visual_info, 
+    GLX_EXT_visual_rating, GLX_EXT_import_context, GLX_SGI_video_sync, 
+    GLX_NV_swap_group, GLX_NV_video_out, GLX_SGIX_fbconfig, GLX_SGIX_pbuffer, 
+    GLX_SGI_swap_control, GLX_EXT_swap_control, GLX_EXT_swap_control_tear, 
+    GLX_ARB_create_context, GLX_ARB_create_context_profile, 
+    GLX_NV_float_buffer, GLX_ARB_fbconfig_float, 
+    GLX_EXT_fbconfig_packed_float, GLX_EXT_texture_from_pixmap, 
+    GLX_EXT_framebuffer_sRGB, GLX_NV_present_video, GLX_NV_copy_image, 
+    GLX_NV_multisample_coverage, GLX_NV_video_capture, 
+    GLX_EXT_create_context_es2_profile, GLX_ARB_create_context_robustness
+GLX version: 1.4
+GLX extensions:
+    GLX_EXT_visual_info, GLX_EXT_visual_rating, GLX_SGIX_fbconfig, 
+    GLX_SGIX_pbuffer, GLX_SGI_video_sync, GLX_SGI_swap_control, 
+    GLX_EXT_swap_control, GLX_EXT_swap_control_tear, 
+    GLX_EXT_texture_from_pixmap, GLX_ARB_create_context, 
+    GLX_ARB_create_context_profile, GLX_EXT_create_context_es2_profile, 
+    GLX_ARB_create_context_robustness, GLX_ARB_multisample, 
+    GLX_NV_float_buffer, GLX_ARB_fbconfig_float, GLX_NV_swap_group, 
+    GLX_EXT_framebuffer_sRGB, GLX_NV_multisample_coverage, GLX_NV_copy_image, 
+    GLX_NV_video_capture, GLX_ARB_get_proc_address
+OpenGL vendor string: NVIDIA Corporation
+OpenGL renderer string: Quadro K1000M/PCIe/SSE2
+OpenGL version string: 4.2.0 NVIDIA 304.88
+OpenGL shading language version string: 4.20 NVIDIA via Cg compiler
+OpenGL extensions:
+    GL_AMD_multi_draw_indirect, GL_AMD_seamless_cubemap_per_texture, 
+    GL_ARB_base_instance, GL_ARB_blend_func_extended, 
+    GL_ARB_color_buffer_float, GL_ARB_compatibility, 
+    GL_ARB_compressed_texture_pixel_storage, GL_ARB_conservative_depth, 
+    GL_ARB_copy_buffer, GL_ARB_depth_buffer_float, GL_ARB_depth_clamp, 
+    GL_ARB_depth_texture, GL_ARB_draw_buffers, GL_ARB_draw_buffers_blend, 
+    GL_ARB_draw_indirect, GL_ARB_draw_elements_base_vertex, 
+    GL_ARB_draw_instanced, GL_ARB_ES2_compatibility, 
+    GL_ARB_explicit_attrib_location, GL_ARB_fragment_coord_conventions, 
+    GL_ARB_fragment_program, GL_ARB_fragment_program_shadow, 
+    GL_ARB_fragment_shader, GL_ARB_framebuffer_object, 
+    GL_ARB_framebuffer_sRGB, GL_ARB_geometry_shader4, 
+    GL_ARB_get_program_binary, GL_ARB_gpu_shader5, GL_ARB_gpu_shader_fp64, 
+    GL_ARB_half_float_pixel, GL_ARB_half_float_vertex, GL_ARB_imaging, 
+    GL_ARB_instanced_arrays, GL_ARB_internalformat_query, 
+    GL_ARB_map_buffer_alignment, GL_ARB_map_buffer_range, GL_ARB_multisample, 
+    GL_ARB_multitexture, GL_ARB_occlusion_query, GL_ARB_occlusion_query2, 
+    GL_ARB_pixel_buffer_object, GL_ARB_point_parameters, GL_ARB_point_sprite, 
+    GL_ARB_provoking_vertex, GL_ARB_robustness, GL_ARB_sample_shading, 
+    GL_ARB_sampler_objects, GL_ARB_seamless_cube_map, 
+    GL_ARB_separate_shader_objects, GL_ARB_shader_atomic_counters, 
+    GL_ARB_shader_bit_encoding, GL_ARB_shader_image_load_store, 
+    GL_ARB_shader_objects, GL_ARB_shader_precision, GL_ARB_shader_subroutine, 
+    GL_ARB_shader_texture_lod, GL_ARB_shading_language_100, 
+    GL_ARB_shading_language_420pack, GL_ARB_shading_language_include, 
+    GL_ARB_shading_language_packing, GL_ARB_shadow, GL_ARB_sync, 
+    GL_ARB_tessellation_shader, GL_ARB_texture_border_clamp, 
+    GL_ARB_texture_buffer_object, GL_ARB_texture_buffer_object_rgb32, 
+    GL_ARB_texture_compression, GL_ARB_texture_compression_bptc, 
+    GL_ARB_texture_compression_rgtc, GL_ARB_texture_cube_map, 
+    GL_ARB_texture_cube_map_array, GL_ARB_texture_env_add, 
+    GL_ARB_texture_env_combine, GL_ARB_texture_env_crossbar, 
+    GL_ARB_texture_env_dot3, GL_ARB_texture_float, GL_ARB_texture_gather, 
+    GL_ARB_texture_mirrored_repeat, GL_ARB_texture_multisample, 
+    GL_ARB_texture_non_power_of_two, GL_ARB_texture_query_lod, 
+    GL_ARB_texture_rectangle, GL_ARB_texture_rg, GL_ARB_texture_rgb10_a2ui, 
+    GL_ARB_texture_storage, GL_ARB_texture_swizzle, GL_ARB_timer_query, 
+    GL_ARB_transform_feedback2, GL_ARB_transform_feedback3, 
+    GL_ARB_transform_feedback_instanced, GL_ARB_transpose_matrix, 
+    GL_ARB_uniform_buffer_object, GL_ARB_vertex_array_bgra, 
+    GL_ARB_vertex_array_object, GL_ARB_vertex_attrib_64bit, 
+    GL_ARB_vertex_buffer_object, GL_ARB_vertex_program, GL_ARB_vertex_shader, 
+    GL_ARB_vertex_type_2_10_10_10_rev, GL_ARB_viewport_array, 
+    GL_ARB_window_pos, GL_ATI_draw_buffers, GL_ATI_texture_float, 
+    GL_ATI_texture_mirror_once, GL_S3_s3tc, GL_EXT_texture_env_add, 
+    GL_EXT_abgr, GL_EXT_bgra, GL_EXT_bindable_uniform, GL_EXT_blend_color, 
+    GL_EXT_blend_equation_separate, GL_EXT_blend_func_separate, 
+    GL_EXT_blend_minmax, GL_EXT_blend_subtract, GL_EXT_compiled_vertex_array, 
+    GL_EXT_Cg_shader, GL_EXT_depth_bounds_test, GL_EXT_direct_state_access, 
+    GL_EXT_draw_buffers2, GL_EXT_draw_instanced, GL_EXT_draw_range_elements, 
+    GL_EXT_fog_coord, GL_EXT_framebuffer_blit, GL_EXT_framebuffer_multisample, 
+    GL_EXTX_framebuffer_mixed_formats, GL_EXT_framebuffer_object, 
+    GL_EXT_framebuffer_sRGB, GL_EXT_geometry_shader4, 
+    GL_EXT_gpu_program_parameters, GL_EXT_gpu_shader4, 
+    GL_EXT_multi_draw_arrays, GL_EXT_packed_depth_stencil, 
+    GL_EXT_packed_float, GL_EXT_packed_pixels, GL_EXT_pixel_buffer_object, 
+    GL_EXT_point_parameters, GL_EXT_provoking_vertex, GL_EXT_rescale_normal, 
+    GL_EXT_secondary_color, GL_EXT_separate_shader_objects, 
+    GL_EXT_separate_specular_color, GL_EXT_shader_image_load_store, 
+    GL_EXT_shadow_funcs, GL_EXT_stencil_two_side, GL_EXT_stencil_wrap, 
+    GL_EXT_texture3D, GL_EXT_texture_array, GL_EXT_texture_buffer_object, 
+    GL_EXT_texture_compression_dxt1, GL_EXT_texture_compression_latc, 
+    GL_EXT_texture_compression_rgtc, GL_EXT_texture_compression_s3tc, 
+    GL_EXT_texture_cube_map, GL_EXT_texture_edge_clamp, 
+    GL_EXT_texture_env_combine, GL_EXT_texture_env_dot3, 
+    GL_EXT_texture_filter_anisotropic, GL_EXT_texture_format_BGRA8888, 
+    GL_EXT_texture_integer, GL_EXT_texture_lod, GL_EXT_texture_lod_bias, 
+    GL_EXT_texture_mirror_clamp, GL_EXT_texture_object, 
+    GL_EXT_texture_shared_exponent, GL_EXT_texture_sRGB, 
+    GL_EXT_texture_sRGB_decode, GL_EXT_texture_storage, 
+    GL_EXT_texture_swizzle, GL_EXT_texture_type_2_10_10_10_REV, 
+    GL_EXT_timer_query, GL_EXT_transform_feedback2, GL_EXT_vertex_array, 
+    GL_EXT_vertex_array_bgra, GL_EXT_vertex_attrib_64bit, 
+    GL_EXT_x11_sync_object, GL_EXT_import_sync_object, GL_IBM_rasterpos_clip, 
+    GL_IBM_texture_mirrored_repeat, GL_KTX_buffer_region, GL_NV_alpha_test, 
+    GL_NV_bindless_texture, GL_NV_blend_minmax, GL_NV_blend_square, 
+    GL_NV_complex_primitives, GL_NV_conditional_render, 
+    GL_NV_copy_depth_to_color, GL_NV_copy_image, GL_NV_deep_texture3D, 
+    GL_NV_depth_buffer_float, GL_NV_depth_clamp, GL_NV_ES1_1_compatibility, 
+    GL_NV_explicit_multisample, GL_NV_fbo_color_attachments, GL_NV_fence, 
+    GL_NV_float_buffer, GL_NV_fog_distance, GL_NV_fragdepth, 
+    GL_NV_fragment_program, GL_NV_fragment_program_option, 
+    GL_NV_fragment_program2, GL_NV_framebuffer_multisample_coverage, 
+    GL_NV_geometry_shader4, GL_NV_gpu_program4, GL_NV_gpu_program4_1, 
+    GL_NV_gpu_program5, GL_NV_gpu_program_fp64, GL_NV_gpu_shader5, 
+    GL_NV_half_float, GL_NV_light_max_exponent, GL_NV_multisample_coverage, 
+    GL_NV_multisample_filter_hint, GL_NV_occlusion_query, 
+    GL_NV_packed_depth_stencil, GL_NV_parameter_buffer_object, 
+    GL_NV_parameter_buffer_object2, GL_NV_path_rendering, 
+    GL_NV_pixel_data_range, GL_NV_point_sprite, GL_NV_primitive_restart, 
+    GL_NV_register_combiners, GL_NV_register_combiners2, 
+    GL_NV_shader_atomic_counters, GL_NV_shader_atomic_float, 
+    GL_NV_shader_buffer_load, GL_NV_texgen_reflection, GL_NV_texture_barrier, 
+    GL_NV_texture_compression_vtc, GL_NV_texture_env_combine4, 
+    GL_NV_texture_expand_normal, GL_NV_texture_lod_clamp, 
+    GL_NV_texture_multisample, GL_NV_texture_rectangle, GL_NV_texture_shader, 
+    GL_NV_texture_shader2, GL_NV_texture_shader3, GL_NV_transform_feedback, 
+    GL_NV_transform_feedback2, GL_NV_vdpau_interop, GL_NV_vertex_array_range, 
+    GL_NV_vertex_array_range2, GL_NV_vertex_attrib_integer_64bit, 
+    GL_NV_vertex_buffer_unified_memory, GL_NV_vertex_program, 
+    GL_NV_vertex_program1_1, GL_NV_vertex_program2, 
+    GL_NV_vertex_program2_option, GL_NV_vertex_program3, GL_NV_video_capture, 
+    GL_NVX_conditional_render, GL_NVX_gpu_memory_info, 
+    GL_OES_compressed_paletted_texture, GL_OES_depth24, GL_OES_depth32, 
+    GL_OES_depth_texture, GL_OES_element_index_uint, GL_OES_fbo_render_mipmap, 
+    GL_OES_get_program_binary, GL_OES_mapbuffer, GL_OES_packed_depth_stencil, 
+    GL_OES_point_size_array, GL_OES_point_sprite, GL_OES_rgb8_rgba8, 
+    GL_OES_read_format, GL_OES_standard_derivatives, GL_OES_texture_3D, 
+    GL_OES_texture_float, GL_OES_texture_float_linear, 
+    GL_OES_texture_half_float, GL_OES_texture_half_float_linear, 
+    GL_OES_texture_npot, GL_OES_vertex_array_object, GL_OES_vertex_half_float, 
+    GL_SGIS_generate_mipmap, GL_SGIS_texture_lod, GL_SGIX_depth_texture, 
+    GL_SGIX_shadow, GL_SUN_slice_accum
+
+276 GLX Visuals
+    visual  x   bf lv rg d st  colorbuffer  sr ax dp st accumbuffer  ms  cav
+  id dep cl sp  sz l  ci b ro  r  g  b  a F gb bf th cl  r  g  b  a ns b eat
+----------------------------------------------------------------------------
+0x021 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x022 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x024 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x025 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x026 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x027 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x028 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x029 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x02a 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x02b 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x02c 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x02d 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x02e 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x02f 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x030 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x031 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x032 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x033 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x034 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x035 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x036 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x037 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x038 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x039 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x03a 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x03b 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x03c 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x03d 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x03e 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x03f 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x040 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x041 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x042 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x043 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x044 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x045 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x046 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x047 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x048 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x049 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x04a 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x04b 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x04c 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x04d 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x04e 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x04f 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x050 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x051 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x052 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x053 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x054 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x055 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x056 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x057 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x058 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x059 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x05a 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x05b 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x05c 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x05d 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x05e 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x05f 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x060 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x061 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x062 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x063 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x064 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x065 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x066 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x067 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x068 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x069 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x06a 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x06b 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x06c 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x06d 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x06e 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x06f 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x070 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x071 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x072 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x073 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x074 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x075 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x076 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x077 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x078 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x079 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x07a 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x07b 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x07c 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x07d 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x07e 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x07f 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x080 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x081 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x082 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x083 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x084 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x085 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x086 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x087 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x088 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x089 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x08a 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x08b 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x08c 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x08d 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x08e 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x08f 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x090 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x091 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x092 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x093 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x094 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x095 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x096 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x097 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x098 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x099 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x09a 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x09b 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x09c 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x09d 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x09e 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x09f 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0a0 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0a1 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0a2 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0a3 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0a4 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0a5 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0a6 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0a7 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0a8 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0a9 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0aa 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0ab 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0ac 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0ad 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0ae 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x0af 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x0b0 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x0b1 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x0b2 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0b3 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0b4 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0b5 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0b6 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0b7 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0b8 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0b9 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0ba 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0bb 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0bc 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0bd 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0be 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0bf 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0c0 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0c1 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0c2 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0c3 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0c4 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0c5 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0c6 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0c7 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0c8 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0c9 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x0ca 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x0cb 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x0cc 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x0cd 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x0ce 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x0cf 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x0d0 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x0d1 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x0d2 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0d3 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0d4 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0d5 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x0d6 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x0d7 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x0d8 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x0d9 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x023 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x0da 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x0db 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x0dc 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x0dd 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x0de 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x0df 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x0e0 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x0e1 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x0e2 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x0e3 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x0e4 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x0e5 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x0e6 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x0e7 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x0e8 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x0e9 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x0ea 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x0eb 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x0ec 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x0ed 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x0ee 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x0ef 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x0f0 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x0f1 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x0f2 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x0f3 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x0f4 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x0f5 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0f6 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0f7 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0f8 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0f9 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0fa 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x0fb 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0fc 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x0fd 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0fe 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x0ff 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x100 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x101 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x102 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x103 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x104 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x105 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x106 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x107 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x108 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x109 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x10a 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x10b 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x10c 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x10d 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x10e 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x10f 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x110 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x111 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x112 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x113 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x114 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x115 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x116 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x117 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x118 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x119 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x11a 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x11b 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x11c 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x11d 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x11e 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x11f 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x120 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x121 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x122 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x123 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x124 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x125 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x126 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x127 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x128 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x129 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x12a 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x12b 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x12c 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x12d 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x12e 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x12f 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x130 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x131 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x132 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x133 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x134 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+
+359 GLXFBConfigs:
+    visual  x   bf lv rg d st  colorbuffer  sr ax dp st accumbuffer  ms  cav
+  id dep cl sp  sz l  ci b ro  r  g  b  a F gb bf th cl  r  g  b  a ns b eat
+----------------------------------------------------------------------------
+0x135 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x136 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x137 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x138 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x139 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x13a 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x13b 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x13c 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x13d 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x13e 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x13f 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x140 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x141 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x142 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x143 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x144 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x145 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x146 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x147 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x148 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x149 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x14a 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x14b 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x14c 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x14d 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x14e 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x14f 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x150 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x151 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x152 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x153 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x154 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x155 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x156 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x157 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x158 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x159 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x15a 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x15b 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x15c 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x15d 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x15e 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x15f 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x160 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x161 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x162 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x163 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x164 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x165 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x166 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x167 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x168 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x169 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x16a 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x16b 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x16c 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x16d 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x16e 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x16f 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x170 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x171 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x172 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x173 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x174 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x175 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x176 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x177 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x178 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x179 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x17a 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x17b 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x17c 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x17d 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x17e 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x17f 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x180 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x181 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x182 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x183 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x184 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x185 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x186 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x187 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x188 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x189 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x18a 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x18b 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x18c 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x18d 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x18e 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x18f 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x190 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x191 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x192 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x193 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x194 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x195 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x196 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x197 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x198 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x199 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x19a 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x19b 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x19c 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x19d 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x19e 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x19f 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x1a0 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x1a1 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a2 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a3 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a4 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a5 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a6 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a7 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a8 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1a9 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x1aa 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x1ab 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x1ac 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x1ad 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1ae 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1af 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1b0 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1b1 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1b2 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1b3 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1b4 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x1b5 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1b6 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1b7 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1b8 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1b9 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1ba 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1bb 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1bc 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1bd 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1be 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1bf 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1c0 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1c1 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1c2 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1c3 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1c4 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x1c5 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1c6 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1c7 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1c8 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1c9 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1ca 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1cb 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1cc 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x1cd 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1ce 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1cf 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1d0 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1d1 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1d2 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1d3 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1d4 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x1d5 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1d6 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1d7 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1d8 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1d9 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1da 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1db 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1dc 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x1dd 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1de 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1df 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1e0 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1e1 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1e2 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1e3 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1e4 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x1e5 24 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1e6 24 dc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1e7 24 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1e8 24 dc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1e9 24 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1ea 24 dc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1eb 24 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1ec 24 dc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x1ed 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x1ee 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x1ef 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  0 0 None
+0x1f0 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  0 0 None
+0x1f1 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x1f2 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x1f3 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  0 0 None
+0x1f4 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  0 0 None
+0x1f5 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x1f6 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x1f7 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4  0  0 16 16 16 16  0 0 None
+0x1f8 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4  0  0 16 16 16 16  0 0 None
+0x1f9 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x1fa 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x1fb 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x1fc 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x1fd 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x1fe 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  2 1 Ncon
+0x1ff 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x200 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  4 1 Ncon
+0x201 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x202 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x203 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x204 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x205 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x206 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  2 1 Ncon
+0x207 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x208 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  4 1 Ncon
+0x209 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x20a 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x20b 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x20c 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x20d 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x20e 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x20f 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x210 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x211 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x212 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x213 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x214 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x215 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x216 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x217 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x218 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x219 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x21a 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x21b 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x21c 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x21d 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x21e 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x21f 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x220 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x221 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x222 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x223 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x224 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x225 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x226 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x227 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x228 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16  8 1 Ncon
+0x229 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x22a 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x22b 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x22c 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 16 1 Ncon
+0x22d 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x22e 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x22f 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x230 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x231 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x232 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x233 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x234 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16  8 1 Ncon
+0x235 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x236 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x237 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x238 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 16 1 Ncon
+0x239 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x23a 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x23b 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x23c 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 64 1 Ncon
+0x23d 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x23e 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x23f 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x240 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 64 1 Ncon
+0x241 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x242 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x243 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x244 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  0 16 16 16 16 32 1 Ncon
+0x245 32 tc  0  32  0 r  y .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x246 32 tc  0  32  0 r  y .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x247 32 tc  0  32  0 r  . .   8  8  8  0 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x248 32 tc  0  32  0 r  . .   8  8  8  8 .  s  4 24  8 16 16 16 16 32 1 Ncon
+0x249  0 sg  0  16  0 r  y .   5  6  5  0 .  .  4 16  0 16 16 16 16  0 0 None
+0x24a  0 sg  0  16  0 r  . .   5  6  5  0 .  .  4 16  0 16 16 16 16  0 0 None
+0x24b  0 sg  0  16  0 r  y .   5  6  5  0 .  .  4 24  0 16 16 16 16  0 0 None
+0x24c  0 sg  0  16  0 r  . .   5  6  5  0 .  .  4 24  0 16 16 16 16  0 0 None
+0x24d  0 sg  0  16  0 r  y .   5  6  5  0 .  .  4 24  8 16 16 16 16  0 0 None
+0x24e  0 sg  0  16  0 r  . .   5  6  5  0 .  .  4 24  8 16 16 16 16  0 0 None
+0x24f  0 sg  0  16  0 r  y .   5  6  5  0 .  .  4  0  0 16 16 16 16  0 0 None
+0x250  0 sg  0  16  0 r  . .   5  6  5  0 .  .  4  0  0 16 16 16 16  0 0 None
+0x251  0 sg  0   0  0 r  . .   0  0  0  0 .  .  4 16  0 16 16 16 16  0 0 None
+0x252  0 sg  0   0  0 r  . .   0  0  0  0 .  .  4 24  0 16 16 16 16  0 0 None
+0x253  0 sg  0   0  0 r  . .   0  0  0  0 .  .  4 24  8 16 16 16 16  0 0 None
+0x254  0 sg  0  32  0 r  . .  16 16  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x255  0 sg  0  32  0    . .  16 16  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x256  0 sg  0  32  0 r  y .  16 16  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x257  0 sg  0  32  0    y .  16 16  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x258  0 sg  0  32  0 r  . .  32  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x259  0 sg  0  32  0    . .  32  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x25a  0 sg  0  32  0 r  y .  32  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x25b  0 sg  0  32  0    y .  32  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x25c  0 sg  0  64  0 r  . .  16 16 16 16 f  .  4  0  0 16 16 16 16  0 0 None
+0x25d  0 sg  0  64  0    . .  16 16 16 16 f  .  4  0  0 16 16 16 16  0 0 None
+0x25e  0 sg  0  64  0 r  y .  16 16 16 16 f  .  4  0  0 16 16 16 16  0 0 None
+0x25f  0 sg  0  64  0    y .  16 16 16 16 f  .  4  0  0 16 16 16 16  0 0 None
+0x260  0 sg  0 128  0 r  . .  32 32 32 32 f  .  4  0  0 16 16 16 16  0 0 None
+0x261  0 sg  0 128  0    . .  32 32 32 32 f  .  4  0  0 16 16 16 16  0 0 None
+0x262  0 sg  0 128  0 r  y .  32 32 32 32 f  .  4  0  0 16 16 16 16  0 0 None
+0x263  0 sg  0 128  0    y .  32 32 32 32 f  .  4  0  0 16 16 16 16  0 0 None
+0x264  0 sg  0  32  0 r  . .  16 16  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x265  0 sg  0  32  0    . .  16 16  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x266  0 sg  0  32  0 r  y .  16 16  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x267  0 sg  0  32  0    y .  16 16  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x268  0 sg  0  32  0 r  . .  16 16  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x269  0 sg  0  32  0    . .  16 16  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x26a  0 sg  0  32  0 r  y .  16 16  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x26b  0 sg  0  32  0    y .  16 16  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x26c  0 sg  0  32  0 r  . .  32  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x26d  0 sg  0  32  0    . .  32  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x26e  0 sg  0  32  0 r  y .  32  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x26f  0 sg  0  32  0    y .  32  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x270  0 sg  0  32  0 r  . .  32  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x271  0 sg  0  32  0    . .  32  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x272  0 sg  0  32  0 r  y .  32  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x273  0 sg  0  32  0    y .  32  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x274  0 sg  0  64  0 r  . .  16 16 16 16 f  .  4 24  0 16 16 16 16  0 0 None
+0x275  0 sg  0  64  0    . .  16 16 16 16 f  .  4 24  0 16 16 16 16  0 0 None
+0x276  0 sg  0  64  0 r  y .  16 16 16 16 f  .  4 24  0 16 16 16 16  0 0 None
+0x277  0 sg  0  64  0    y .  16 16 16 16 f  .  4 24  0 16 16 16 16  0 0 None
+0x278  0 sg  0  64  0 r  . .  16 16 16 16 f  .  4 24  8 16 16 16 16  0 0 None
+0x279  0 sg  0  64  0    . .  16 16 16 16 f  .  4 24  8 16 16 16 16  0 0 None
+0x27a  0 sg  0  64  0 r  y .  16 16 16 16 f  .  4 24  8 16 16 16 16  0 0 None
+0x27b  0 sg  0  64  0    y .  16 16 16 16 f  .  4 24  8 16 16 16 16  0 0 None
+0x27c  0 sg  0 128  0 r  . .  32 32 32 32 f  .  4 24  0 16 16 16 16  0 0 None
+0x27d  0 sg  0 128  0    . .  32 32 32 32 f  .  4 24  0 16 16 16 16  0 0 None
+0x27e  0 sg  0 128  0 r  y .  32 32 32 32 f  .  4 24  0 16 16 16 16  0 0 None
+0x27f  0 sg  0 128  0    y .  32 32 32 32 f  .  4 24  0 16 16 16 16  0 0 None
+0x280  0 sg  0 128  0 r  . .  32 32 32 32 f  .  4 24  8 16 16 16 16  0 0 None
+0x281  0 sg  0 128  0    . .  32 32 32 32 f  .  4 24  8 16 16 16 16  0 0 None
+0x282  0 sg  0 128  0 r  y .  32 32 32 32 f  .  4 24  8 16 16 16 16  0 0 None
+0x283  0 sg  0 128  0    y .  32 32 32 32 f  .  4 24  8 16 16 16 16  0 0 None
+0x284  0 sg  0  16  0 r  . .  16  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x285  0 sg  0  16  0    . .  16  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x286  0 sg  0  16  0 r  y .  16  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x287  0 sg  0  16  0    y .  16  0  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x288  0 sg  0  64  0 r  . .  32 32  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x289  0 sg  0  64  0    . .  32 32  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x28a  0 sg  0  64  0 r  y .  32 32  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x28b  0 sg  0  64  0    y .  32 32  0  0 f  .  4  0  0 16 16 16 16  0 0 None
+0x28c  0 sg  0  16  0 r  . .  16  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x28d  0 sg  0  16  0    . .  16  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x28e  0 sg  0  16  0 r  y .  16  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x28f  0 sg  0  16  0    y .  16  0  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x290  0 sg  0  16  0 r  . .  16  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x291  0 sg  0  16  0    . .  16  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x292  0 sg  0  16  0 r  y .  16  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x293  0 sg  0  16  0    y .  16  0  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x294  0 sg  0  64  0 r  . .  32 32  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x295  0 sg  0  64  0    . .  32 32  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x296  0 sg  0  64  0 r  y .  32 32  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x297  0 sg  0  64  0    y .  32 32  0  0 f  .  4 24  0 16 16 16 16  0 0 None
+0x298  0 sg  0  64  0 r  . .  32 32  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x299  0 sg  0  64  0    . .  32 32  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x29a  0 sg  0  64  0 r  y .  32 32  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+0x29b  0 sg  0  64  0    y .  32 32  0  0 f  .  4 24  8 16 16 16 16  0 0 None
+
