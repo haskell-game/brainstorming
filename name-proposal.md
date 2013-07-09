@@ -21,3 +21,4 @@ Fun
 
 * Thesaurus word for "game"
 * Like "functional"
+* There's already a "FunGEn" (2D) game engine on hackage
