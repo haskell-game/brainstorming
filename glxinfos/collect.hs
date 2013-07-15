@@ -1,11 +1,12 @@
 import Control.Arrow      (first)
 import Control.Monad      (forM_)
 import Data.Char          (isAlphaNum)
-import Data.List          (isPrefixOf, nub, sortBy)
+import Data.List          (isPrefixOf, sortBy)
 import Data.Tuple         (swap)
 import System.Environment (getArgs)
 
 import qualified Data.Map as M
+import qualified Data.Set as S
 
 main :: IO ()
 main = do
@@ -21,7 +22,8 @@ main = do
 
 extract :: String -> [String]
 extract =
-    nub . map clean . filter interesting . words
+    ordNub . map clean . filter interesting . concatMap words
+      . filter (" " `isPrefixOf`) . lines
   where
     clean         = takeWhile (\c -> isAlphaNum c || c == '_')
     interesting w = (`isPrefixOf` w) `any` extPrefixes
@@ -49,3 +51,13 @@ calcPcts extss =
       where
         oneHundred = 100 :: Double
         num = fromIntegral $ length extss
+
+ordNub :: (Ord a) => [a] -> [a]
+ordNub =
+    go S.empty
+  where
+    go _ [] = []
+    go s (x:xs) =
+      if x `S.member` s
+        then     go s              xs
+        else x : go (S.insert x s) xs
