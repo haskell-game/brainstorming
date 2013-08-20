@@ -264,6 +264,7 @@ enet? See details here: http://enet.bespin.org/Features.html.
   + MIT license? http://enet.bespin.org/License.html
 
 Q: Do we even want to provide any direct support for networking?
+A: Yes
 
 Sound and Music Loading
 =======================
