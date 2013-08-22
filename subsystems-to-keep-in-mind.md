@@ -99,3 +99,5 @@ Game-Specific Subsystems
   etc.)
 * AI (goals and decision-making, sight traces and perception, actions,
   path-finding, etc.)
+    pathfinding: A*, D*-lite, incremental phi*, mtd*-lite, anytime D*, hpa*, haa*
+    see http://cstheory.stackexchange.com/questions/11855/how-do-the-state-of-the-art-pathfinding-algorithms-for-changing-graphs-d-d-l/11866#11866
