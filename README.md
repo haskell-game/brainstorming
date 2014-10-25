@@ -1,4 +1,4 @@
-The Haskell Game Library
+The Haskell Game Project
 ========================
 
 This initiative aims to improve the *status quo* of developing games
